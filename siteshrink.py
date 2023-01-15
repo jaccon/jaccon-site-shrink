@@ -4,7 +4,7 @@ import time
 ts = str(time.time())
 
 # setup
-version = "0.2.2023"
+version = "0.2.1.2023"
 command1 = "wget --recursive --no-clobber --page-requisites --html-extension --convert-links --restrict-file-names=windows --no-parent "
 
 print ("☠️☠️☠️ Jaccon Site Shrink ☠️☠️☠️ " + version)
